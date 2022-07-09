@@ -1,7 +1,7 @@
 # Netflix Movies and TV shows
 
 Created a dashboard showing some insights like top ten director, top 3 movies in all genres, movied and TV shows worldwide distribution , etc.. from Netflix Movies and TV shows dataset.
-Dataset is downloaded from Kaggle and copy of the dataset is uploaded in this folders
+Dataset is downloaded from Kaggle and copy of the dataset is uploaded in this folder
 
 Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
